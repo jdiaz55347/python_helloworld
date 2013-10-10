@@ -49,7 +49,7 @@
 import urllib 
 import httplib
 
-cik = 'PUTYOURCIKHERE'
+cik = 'f372b6ff394a949a0483189ad196c2de9b8b3cb4'
 
 server = 'm2.exosite.com'
 
